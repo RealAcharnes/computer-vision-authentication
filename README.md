@@ -8,6 +8,6 @@ For this project we worked on two different ways to authenticate and check a use
 
 The first one use *SURF algorythm* and an *SVM classifier*.
 
-The seconde one use [Alexis]
+The seconde one use *Local Binary Pattern Histogram (LBPH)*
 
 Both notebook are made to run on google colab, with the dataset available on each folder of this Github repository.
